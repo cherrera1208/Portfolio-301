@@ -2,7 +2,7 @@
   "basic_info": {
     "name": "Carlos Herrera",
     "titles": [
-      "Full-Stack Software Developer"
+      "Consistence and Excellence in Software Development"
     ],
     "social": [
       {
@@ -31,19 +31,14 @@
         "level": "95"
       },
       {
-        "name": "Angular",
-        "class": "devicon-angularjs-plain",
-        "level": "80"
-      },
-      {
-        "name": "TypeScript",
-        "class": "devicon-typescript-plain",
-        "level": "90"
-      },
-      {
         "name": "JavaScript",
         "class": "devicon-javascript-plain",
         "level": "70"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "80"
       },
       {
         "name": "Sass",
@@ -54,11 +49,6 @@
         "name": "Bootstrap",
         "class": "devicon-bootstrap-plain",
         "level": "85"
-      },
-      {
-        "name": "C#",
-        "class": "devicon-csharp-plain",
-        "level": "65"
       },
       {
         "name": "MySql",

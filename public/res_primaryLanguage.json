@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hello",
-    "description": "My name is Carlos and I'm a full stack web developer. My background is in avionics for the Navy and property management around greater Seattle. Tech has always been one of my first loves and I'm making the career switch. I realized what I really wanted from a career and committed myself to an intensive boot camp and it's been all I've wanted to think about since. I trained in JavaScript because it is the language of the internet. If there's a webpage that exists, it probably exists with JavaScript. Concerning my experience, avionics taught me troubleshooting while adhering to strict protocols utilizing dense technical manuals. Also, as a veteran, I possess the soft-skills that one would expect from the military, such as accountability, ownership, and leadership. In addition to my avionics background, I also worked as a professional in property management where I learned many interpersonal and communication skills necessary to demonstrate, explain, or promote certain qualities of a property to an array of diverse personalities. Here I also became proficient in customer relationship management software (CRM) and lead generation. I believe, along with my technical programming abilities and strategic thinking, what I can bring to your business is a multitude of soft-skills like accountability, ownership, communication, and leadership. I will be the right fit for you if you need an employee that not only codes but has the skills to bring a team together and pitch ideas to potential new clients.",
+    "description": "My name is Carlos and I'm a full stack web developer. My background is in avionics for the Navy and property management around greater Seattle. Tech has always been one of my first loves and I'm making the career switch. I realized what I really wanted from a career and committed myself to an intensive boot camp and it's been all I've wanted to think about since. I trained in JavaScript because it is the language of the internet. If there's a webpage that exists, it probably exists with JavaScript. <br> Concerning my experience, avionics taught me troubleshooting while adhering to strict protocols utilizing dense technical manuals. Also, as a veteran, I possess the soft-skills that one would expect from the military, such as accountability, ownership, and leadership. In addition to my avionics background, I also worked as a professional in property management where I learned many interpersonal and communication skills necessary to demonstrate, explain, or promote certain qualities of a property to an array of diverse personalities. Here, I also became proficient in customer relationship management software (CRM) and lead generation. <br /> I believe, along with my technical programming abilities and strategic thinking, what I can bring to your business is a multitude of soft-skills like accountability, ownership, communication, and leadership. I will be the right fit for you if you need an employee that not only codes but has the skills to bring a team together and pitch ideas to potential new clients.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -81,37 +81,51 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
+      "company": "Code Fellows",
+      "title": "Student of Full-stack Development",
+      "years": "07.2022 - present",
       "mainTech": [
-        "Angular 8/9/10"
+        "JavaScript"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
+        "React",
         "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "react-Bootstrap",
+        "HTML5",
+        "CSS3",
+        "Github",
+        "MongoDB",
+        "RESTful APIs"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
+      "company": "Apartment Advantage",
+      "title": "Property management, leasing and maintenance",
+      "years": "08.2019 - 07.2022",
       "mainTech": [
-        "Angular 7/8"
+        "Yardi CRM"
       ],
       "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "Lead generation",
+        "Conflict resolution",
+        "Business communication",
+        "Customer Relations"
+      ]
+    },
+    {
+      "company": "US Navy",
+      "title": "Avionics Technician, I-level",
+      "years": "09.2011 - 09.2016",
+      "mainTech": [
+        "Radar Altimeters"
+      ],
+      "technologies": [
+        "COM/NAV",
+        "Micro-miniature circuit card repair",
+        "Wire harness assembly and repair",
+        "General aircraft electronics systems",
+        "Interpret electronic schematics",
+        "Advanced electronic test equipment"
       ]
     }
   ]
