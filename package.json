@@ -5,6 +5,7 @@
   "dependencies": {
     "@brookr/react-switch": "^6.0.1",
     "bootstrap": "^5.2.0",
+    "cra-template-react-portfolio": "^3.0.1",
     "jquery": "^3.6.0",
     "react": "^18.2.0",
     "react-awesome-slider": "^4.1.0",
