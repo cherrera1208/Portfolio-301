@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hello",
-    "description": "My name is Carlos and I'm a full stack web developer. My background is in avionics for the Navy and property management around greater Seattle. Tech has always been one of my first loves and I'm making the career switch. I realized what I really wanted from a career and committed myself to an intensive boot camp and it's been all I've wanted to think about since. I trained in JavaScript because it is the language of the internet. If there's a webpage that exists, it probably exists with JavaScript. <br> Concerning my experience, avionics taught me troubleshooting while adhering to strict protocols utilizing dense technical manuals. Also, as a veteran, I possess the soft-skills that one would expect from the military, such as accountability, ownership, and leadership. In addition to my avionics background, I also worked as a professional in property management where I learned many interpersonal and communication skills necessary to demonstrate, explain, or promote certain qualities of a property to an array of diverse personalities. Here, I also became proficient in customer relationship management software (CRM) and lead generation. <br /> I believe, along with my technical programming abilities and strategic thinking, what I can bring to your business is a multitude of soft-skills like accountability, ownership, communication, and leadership. I will be the right fit for you if you need an employee that not only codes but has the skills to bring a team together and pitch ideas to potential new clients.",
+    "description": "My name is Carlos and I'm a full stack web developer. My background is in avionics for the Navy and property management around greater Seattle. Tech has always been one of my first loves and I'm making the career switch. I realized what I really wanted from a career and committed myself to an intensive boot camp and it's been all I've wanted to think about since. I trained in JavaScript because it is the language of the internet. If there's a webpage that exists, it probably exists with JavaScript. Concerning my experience, avionics taught me troubleshooting while adhering to strict protocols utilizing dense technical manuals. Also, as a veteran, I possess the soft-skills that one would expect from the military, such as accountability, ownership, and leadership. In addition to my avionics background, I also worked as a professional in property management where I learned many interpersonal and communication skills necessary to demonstrate, explain, or promote certain qualities of a property to an array of diverse personalities. Here, I also became proficient in customer relationship management software (CRM) and lead generation. I believe, along with my technical programming abilities and strategic thinking, what I can bring to your business is a multitude of soft-skills like accountability, ownership, communication, and leadership. I will be the right fit for you if you need an employee that not only codes but has the skills to bring a team together and pitch ideas to potential new clients.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -11,38 +11,38 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processes and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Cap'n Madlib",
+      "startDate": "2022",
+      "description": "\"Look out! Cap'n Madlib is on the high seas\" Group project consisting of two childhood favorite games, battleship and madlibs, set to a light-hearted pirate theme.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/animal-shelter/madlib (Small).jpg",
+        "images/portfolio/animal-shelter/f49ikihs.jpg"
       ],
-      "url": "",
+      "url": "https://green-velvet.github.io/Witty-Mad-Libs/",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-html5-plain",
+          "name": "HTML"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-css3-plain",
+          "name": "CSS"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "title": "Gallery of Horns",
+      "startDate": "2022",
+      "description": "\"Vote for your favorite horned creature, real or mythical; unicorns, Smaug, or bull, which do you choose?\" A project using the React and react-bootstrap frameworks to build a smooth web app with components and a modal feature",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/photography/gallerOfHorns (Small).png",
+        "images/portfolio/photography/sclr96p3.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://eclectic-frangipane-6f39d5.netlify.app/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -51,30 +51,34 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
         }
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "Salmon Cookies",
+      "startDate": "2022",
+      "description": "\"What even is a salmon cookie anyway?\" A simple, two page website that updates a table dynamically with HTML and styled with CSS.",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/adventure/salmonCookies (Small).jpg",
+        "images/portfolio/adventure/2jd9ecll.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://cherrera1208.github.io/cookie-stand/",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-html5-plain",
+          "name": "HTML"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-css3-plain",
+          "name": "CSS"
         }
       ]
     }
