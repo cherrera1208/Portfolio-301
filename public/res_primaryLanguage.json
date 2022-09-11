@@ -15,9 +15,9 @@
       "startDate": "2022",
       "description": "Beautiful website for a dealership that features intuitive add, update, and delete functionality for an admin once they log in using Auth0",
       "images": [
-        "images/portfolio/adventure/dealer.jpg",
-        "images/portfolio/adventure/dealer2.jpg",
-        "images/portfolio/adventure/dealer3.jpg"
+        "images/portfolio/dealership/dealer.jpg",
+        "images/portfolio/dealership/dealer2.jpg",
+        "images/portfolio/dealership/dealer3.jpg"
       ],
       "url": "https://purpledealership.netlify.app/",
       "technologies": [
@@ -52,8 +52,8 @@
       "startDate": "2022",
       "description": "\"Look out! Cap'n Madlib is on the high seas\" Group project consisting of two childhood favorite games, battleship and madlibs, set to a light-hearted pirate theme.",
       "images": [
-        "images/portfolio/animal-shelter/madlib (Small).jpg",
-        "images/portfolio/animal-shelter/f49ikihs.jpg"
+        "images/portfolio/madlib/madlib (Small).jpg",
+        "images/portfolio/madlib/f49ikihs.jpg"
       ],
       "url": "https://green-velvet.github.io/Witty-Mad-Libs/",
       "technologies": [
@@ -76,8 +76,8 @@
       "startDate": "2022",
       "description": "\"Vote for your favorite horned creature, real or mythical; unicorns, Smaug, or bull, which do you choose?\" A project using the React and react-bootstrap frameworks to build a smooth web app with components and a modal feature",
       "images": [
-        "images/portfolio/photography/gallerOfHorns (Small).png",
-        "images/portfolio/photography/sclr96p3.jpg"
+        "images/portfolio/horns/horns.jpg",
+        "images/portfolio/horns/horns2.jpg"
       ],
       "url": "https://eclectic-frangipane-6f39d5.netlify.app/",
       "technologies": [
