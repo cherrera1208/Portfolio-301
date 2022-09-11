@@ -11,6 +11,43 @@
   },
   "projects": [
     {
+      "title": "Dealership",
+      "startDate": "2022",
+      "description": "Beautiful website for a dealership that features intuitive add, update, and delete functionality for an admin once they log in using Auth0",
+      "images": [
+        "images/portfolio/adventure/dealer.jpg",
+        "images/portfolio/adventure/dealer2.jpg",
+        "images/portfolio/adventure/dealer3.jpg"
+      ],
+      "url": "https://purpledealership.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "Mongodb"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
       "title": "Cap'n Madlib",
       "startDate": "2022",
       "description": "\"Look out! Cap'n Madlib is on the high seas\" Group project consisting of two childhood favorite games, battleship and madlibs, set to a light-hearted pirate theme.",
@@ -55,30 +92,6 @@
         {
           "class": "devicon-bootstrap-plain",
           "name": "Bootstrap"
-        }
-      ]
-    },
-    {
-      "title": "Salmon Cookies",
-      "startDate": "2022",
-      "description": "\"What even is a salmon cookie anyway?\" A simple, two page website that updates a table dynamically with HTML and styled with CSS.",
-      "images": [
-        "images/portfolio/adventure/salmonCookies (Small).jpg",
-        "images/portfolio/adventure/2jd9ecll.jpg"
-      ],
-      "url": "https://cherrera1208.github.io/cookie-stand/",
-      "technologies": [
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS"
         }
       ]
     }
